@@ -10,5 +10,5 @@
 - Matplotlib, Seaborn, Plotly
 - Scikit-learn
 
-## 📁 Folder Structure
+
 
